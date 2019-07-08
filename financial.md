@@ -7,7 +7,7 @@
 | [Копейкина](http://www.mosgorizbirkom.ru/documents/10279/18905811/oik08_3-6-3.pdf/f8bfc0d3-13cf-47f5-9703-a8939d400f0e)| 8| 75800 | 5310 | 14.27 |
 [Нифантьев](http://www.mosgorizbirkom.ru/documents/10279/18905811/oik11_3-6-3.pdf/4ef1c2b3-393e-4079-8345-0b35e4451d8c) (зарплата сборщиков выделена отдельной строкой) - ✔ | 11 | 50000 | 5266 | 9.49
 [Шапошников](http://www.mosgorizbirkom.ru/documents/10279/18905811/oik12_3-6-3.pdf/564ca1f2-1443-4dea-befd-d9c967f4bb3f) | 12 |  47050 | 4680 | 10.05
-[Бускин](http://www.mosgorizbirkom.ru/documents/10279/18905811/oik13_3-6-3.pdf/d26e2d79-8344-48f0-afef-b7b0e6f32d5d) | 13 | 2435000 | 5006 | 486.41
+[Бускин](http://www.mosgorizbirkom.ru/documents/10279/18905811/oik13_3-6-3.pdf/d26e2d79-8344-48f0-afef-b7b0e6f32d5d) ✔ | 13 | 2435000 | 5006 | 486.41
 [Шевченко](http://www.mosgorizbirkom.ru/documents/10279/18905811/oik21_3-6-3.pdf/a097685b-5188-4982-aa39-f94613153f28) | 21 | 2800 | 4703| 0.59 |
 [Николаева](http://www.mosgorizbirkom.ru/documents/10279/18905811/oik23_3-6-3.pdf/6bfbab1d-9d21-4256-abc3-d288e72e1cc2) | 23 | 28820 | 4473 | 6.44 |
 [Дягилев](http://www.mosgorizbirkom.ru/documents/10279/18905811/oik24_3-6-3.pdf/39d19b3e-d54b-4a73-ac13-924eddbcdc77)| 24| 92600 | 5288 | 17.51 |
